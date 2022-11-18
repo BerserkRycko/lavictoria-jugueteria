@@ -1,0 +1,3 @@
+[submodule "themes/hugo-launch-product"]
+	path = themes/hugo-launch-product
+	url = https://github.com/BerserkRycko/lavictoria-jugueteria.git
