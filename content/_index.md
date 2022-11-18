@@ -20,6 +20,7 @@ Tenemos 30 años de tradición vendiendo los mejores juguetes, vendemos juguetes
 
 {{< contact_form id="contact-form" placeholder_name="Nombre" placeholder_email="Correo electrónico" placeholder_message="Mensaje" button_label="Send ✉️">}}
 
+
 ---
 
 # Visitanos
